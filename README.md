@@ -34,3 +34,7 @@
 `[BurpSuite + extensions]` `[Metasploit]` `[Nmap]` `[Nikto]` `[Sqlmap]` `[Impacket]` `[Bloodhound]` `[Mimikatz]` `[Wireshark]` `[NetworkMiner]` `[volatility]` `[IDA Pro]` `[Immunity Debugger]` `[edb]` ...
 
 <br>
+
+<div align=center>
+	<p>Mi Perfil de Linkedin: <b><a href="https://www.linkedin.com/in/franco-cardozo-57567020a/">Franco Cardozo</a></b></p>
+</div>
