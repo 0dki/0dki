@@ -2,6 +2,7 @@
 
 [![ Languages        ](https://img.shields.io/badge/[%20ES%20|%20EN%20]-informational?style=flat-square&color=eeeeee)]()
 - 🎓 Estudiante de Analista en Tecnologias de la Información en la UNLP.
+- 💡 Apasionado por el mundo de la Ciberseguridad .
 - 🔓 Ethical Hacker / Pentester .
 - 🐉 e-Learning Junior Penetration Tester [![ eJPTv2 ](https://img.shields.io/badge/(%20eJPTv2%20)-informational?style=flat-square&color=eeeeee)]() .
 - ⚔️ Practicante de CTF´s en plataformas como Try Hack Me , Hack The Box .
