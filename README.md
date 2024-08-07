@@ -1,5 +1,7 @@
 <h1 align="center">Hola👋</h1>
 
+<img align="right" alt="haxor" width="30%" src="https://github.com/user-attachments/assets/2597716f-4ef4-4f21-acdb-f8ffbb29f0e2" />
+
 [![ Languages        ](https://img.shields.io/badge/[%20ES%20|%20EN%20]-informational?style=flat-square&color=eeeeee)]()
 - 🎓 Estudiante de Analista en Tecnologias de la Información en la UNLP.
 - 💡 Apasionado por el mundo de la Ciberseguridad .
